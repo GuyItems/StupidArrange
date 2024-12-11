@@ -1,0 +1,12 @@
+{
+    "arrange_roblox": {
+      "loop_delay": 30,
+      "start_x": 10,
+      "start_y": 10,
+      "width": 400,
+      "height": 300,
+      "offset_x": 20,
+      "offset_y": 20
+    }
+  }
+  
